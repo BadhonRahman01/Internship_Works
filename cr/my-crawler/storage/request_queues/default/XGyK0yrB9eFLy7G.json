@@ -1,0 +1,9 @@
+{
+	"id": "XGyK0yrB9eFLy7G",
+	"json": "{\"id\":\"XGyK0yrB9eFLy7G\",\"url\":\"https://crawlee.dev/api/core/class/CriticalError\",\"loadedUrl\":\"https://crawlee.dev/api/core/class/CriticalError\",\"uniqueKey\":\"https://crawlee.dev/api/core/class/CriticalError\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:29:52.818Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/api/core/class/CriticalError",
+	"url": "https://crawlee.dev/api/core/class/CriticalError"
+}

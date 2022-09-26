@@ -1,0 +1,9 @@
+{
+	"id": "e2qlPVlo3n5uBfc",
+	"json": "{\"id\":\"e2qlPVlo3n5uBfc\",\"url\":\"https://crawlee.dev/docs/next/guides/avoid-blocking\",\"loadedUrl\":\"https://crawlee.dev/docs/next/guides/avoid-blocking\",\"uniqueKey\":\"https://crawlee.dev/docs/next/guides/avoid-blocking\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:33:42.261Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/docs/next/guides/avoid-blocking",
+	"url": "https://crawlee.dev/docs/next/guides/avoid-blocking"
+}

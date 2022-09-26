@@ -1,0 +1,9 @@
+{
+	"id": "s4gVCA8mfIeQUMW",
+	"json": "{\"id\":\"s4gVCA8mfIeQUMW\",\"url\":\"https://crawlee.dev/docs/guides/session-management\",\"loadedUrl\":\"https://crawlee.dev/docs/guides/session-management\",\"uniqueKey\":\"https://crawlee.dev/docs/guides/session-management\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:31:18.521Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/docs/guides/session-management",
+	"url": "https://crawlee.dev/docs/guides/session-management"
+}

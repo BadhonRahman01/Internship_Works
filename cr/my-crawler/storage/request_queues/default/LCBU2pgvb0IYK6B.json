@@ -1,0 +1,9 @@
+{
+	"id": "LCBU2pgvb0IYK6B",
+	"json": "{\"id\":\"LCBU2pgvb0IYK6B\",\"url\":\"https://crawlee.dev/api/core/class/ProxyConfiguration\",\"loadedUrl\":\"https://crawlee.dev/api/core/class/ProxyConfiguration\",\"uniqueKey\":\"https://crawlee.dev/api/core/class/ProxyConfiguration\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:30:02.323Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/api/core/class/ProxyConfiguration",
+	"url": "https://crawlee.dev/api/core/class/ProxyConfiguration"
+}

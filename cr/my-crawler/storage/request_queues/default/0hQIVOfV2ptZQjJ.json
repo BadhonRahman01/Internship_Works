@@ -1,0 +1,9 @@
+{
+	"id": "0hQIVOfV2ptZQjJ",
+	"json": "{\"id\":\"0hQIVOfV2ptZQjJ\",\"url\":\"https://crawlee.dev/docs/next/guides/got-scraping\",\"loadedUrl\":\"https://crawlee.dev/docs/next/guides/got-scraping\",\"uniqueKey\":\"https://crawlee.dev/docs/next/guides/got-scraping\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:33:42.250Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/docs/next/guides/got-scraping",
+	"url": "https://crawlee.dev/docs/next/guides/got-scraping"
+}

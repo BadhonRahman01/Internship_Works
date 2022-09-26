@@ -1,0 +1,9 @@
+{
+	"id": "SaxTkPhLevqS1w4",
+	"json": "{\"id\":\"SaxTkPhLevqS1w4\",\"url\":\"https://crawlee.dev/docs/quick-start\",\"loadedUrl\":\"https://crawlee.dev/docs/quick-start\",\"uniqueKey\":\"https://crawlee.dev/docs/quick-start\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:29:35.954Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/docs/quick-start",
+	"url": "https://crawlee.dev/docs/quick-start"
+}

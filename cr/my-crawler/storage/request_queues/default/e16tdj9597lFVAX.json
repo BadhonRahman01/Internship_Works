@@ -1,0 +1,9 @@
+{
+	"id": "e16tdj9597lFVAX",
+	"json": "{\"id\":\"e16tdj9597lFVAX\",\"url\":\"https://crawlee.dev/api/next/core/interface/KeyValueStoreOptions\",\"loadedUrl\":\"https://crawlee.dev/api/next/core/interface/KeyValueStoreOptions\",\"uniqueKey\":\"https://crawlee.dev/api/next/core/interface/KeyValueStoreOptions\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:33:22.756Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/api/next/core/interface/KeyValueStoreOptions",
+	"url": "https://crawlee.dev/api/next/core/interface/KeyValueStoreOptions"
+}

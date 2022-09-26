@@ -1,0 +1,9 @@
+{
+	"id": "rMBOER9IJ99HQXg",
+	"json": "{\"id\":\"rMBOER9IJ99HQXg\",\"url\":\"https://crawlee.dev/docs/introduction/saving-data\",\"loadedUrl\":\"https://crawlee.dev/docs/introduction/saving-data\",\"uniqueKey\":\"https://crawlee.dev/docs/introduction/saving-data\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:30:41.102Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/docs/introduction/saving-data",
+	"url": "https://crawlee.dev/docs/introduction/saving-data"
+}

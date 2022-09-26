@@ -1,0 +1,9 @@
+{
+	"id": "XGMC9Ebf1tNtcEo",
+	"json": "{\"id\":\"XGMC9Ebf1tNtcEo\",\"url\":\"https://crawlee.dev/docs/guides/docker-images\",\"loadedUrl\":\"https://crawlee.dev/docs/guides/docker-images\",\"uniqueKey\":\"https://crawlee.dev/docs/guides/docker-images\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:31:19.595Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/docs/guides/docker-images",
+	"url": "https://crawlee.dev/docs/guides/docker-images"
+}

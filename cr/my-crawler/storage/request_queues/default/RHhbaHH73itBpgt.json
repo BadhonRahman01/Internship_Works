@@ -1,0 +1,9 @@
+{
+	"id": "RHhbaHH73itBpgt",
+	"json": "{\"id\":\"RHhbaHH73itBpgt\",\"url\":\"https://crawlee.dev/api/types/interface/Dataset\",\"loadedUrl\":\"https://crawlee.dev/api/types/interface/Dataset\",\"uniqueKey\":\"https://crawlee.dev/api/types/interface/Dataset\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:32:08.309Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/api/types/interface/Dataset",
+	"url": "https://crawlee.dev/api/types/interface/Dataset"
+}

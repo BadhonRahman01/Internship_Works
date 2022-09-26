@@ -1,0 +1,9 @@
+{
+	"id": "0iKi45j7L1Iyh8e",
+	"json": "{\"id\":\"0iKi45j7L1Iyh8e\",\"url\":\"https://crawlee.dev/api/next/types/interface/DatasetCollectionClient\",\"loadedUrl\":\"https://crawlee.dev/api/next/types/interface/DatasetCollectionClient\",\"uniqueKey\":\"https://crawlee.dev/api/next/types/interface/DatasetCollectionClient\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:34:12.666Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/api/next/types/interface/DatasetCollectionClient",
+	"url": "https://crawlee.dev/api/next/types/interface/DatasetCollectionClient"
+}

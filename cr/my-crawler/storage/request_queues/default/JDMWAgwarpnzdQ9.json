@@ -1,0 +1,9 @@
+{
+	"id": "JDMWAgwarpnzdQ9",
+	"json": "{\"id\":\"JDMWAgwarpnzdQ9\",\"url\":\"https://crawlee.dev/api/cheerio-crawler\",\"loadedUrl\":\"https://crawlee.dev/api/cheerio-crawler\",\"uniqueKey\":\"https://crawlee.dev/api/cheerio-crawler\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:29:42.086Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/api/cheerio-crawler",
+	"url": "https://crawlee.dev/api/cheerio-crawler"
+}

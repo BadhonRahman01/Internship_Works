@@ -1,0 +1,9 @@
+{
+	"id": "0BvrW5A2lrtEACj",
+	"json": "{\"id\":\"0BvrW5A2lrtEACj\",\"url\":\"https://crawlee.dev/api\",\"loadedUrl\":\"https://crawlee.dev/api\",\"uniqueKey\":\"https://crawlee.dev/api\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:32:51.043Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/api",
+	"url": "https://crawlee.dev/api"
+}

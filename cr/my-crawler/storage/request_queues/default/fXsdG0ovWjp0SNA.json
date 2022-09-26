@@ -1,0 +1,9 @@
+{
+	"id": "fXsdG0ovWjp0SNA",
+	"json": "{\"id\":\"fXsdG0ovWjp0SNA\",\"url\":\"https://crawlee.dev/api/core/enum/EnqueueStrategy\",\"loadedUrl\":\"https://crawlee.dev/api/core/enum/EnqueueStrategy\",\"uniqueKey\":\"https://crawlee.dev/api/core/enum/EnqueueStrategy\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:30:07.857Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/api/core/enum/EnqueueStrategy",
+	"url": "https://crawlee.dev/api/core/enum/EnqueueStrategy"
+}

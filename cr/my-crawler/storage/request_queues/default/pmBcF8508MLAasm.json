@@ -1,0 +1,9 @@
+{
+	"id": "pmBcF8508MLAasm",
+	"json": "{\"id\":\"pmBcF8508MLAasm\",\"url\":\"https://crawlee.dev/api/next/core/interface/StatisticPersistedState\",\"loadedUrl\":\"https://crawlee.dev/api/next/core/interface/StatisticPersistedState\",\"uniqueKey\":\"https://crawlee.dev/api/next/core/interface/StatisticPersistedState\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:33:31.650Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/api/next/core/interface/StatisticPersistedState",
+	"url": "https://crawlee.dev/api/next/core/interface/StatisticPersistedState"
+}

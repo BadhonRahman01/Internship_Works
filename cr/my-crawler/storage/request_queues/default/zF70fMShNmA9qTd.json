@@ -1,0 +1,9 @@
+{
+	"id": "zF70fMShNmA9qTd",
+	"json": "{\"id\":\"zF70fMShNmA9qTd\",\"url\":\"https://crawlee.dev/api/next/playwright-crawler/interface/PlaywrightHook\",\"loadedUrl\":\"https://crawlee.dev/api/next/playwright-crawler/interface/PlaywrightHook\",\"uniqueKey\":\"https://crawlee.dev/api/next/playwright-crawler/interface/PlaywrightHook\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:34:41.401Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/api/next/playwright-crawler/interface/PlaywrightHook",
+	"url": "https://crawlee.dev/api/next/playwright-crawler/interface/PlaywrightHook"
+}

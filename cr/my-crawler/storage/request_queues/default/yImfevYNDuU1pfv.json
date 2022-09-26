@@ -1,0 +1,9 @@
+{
+	"id": "yImfevYNDuU1pfv",
+	"json": "{\"id\":\"yImfevYNDuU1pfv\",\"url\":\"https://crawlee.dev/api/utils/changelog\",\"loadedUrl\":\"https://crawlee.dev/api/utils/changelog\",\"uniqueKey\":\"https://crawlee.dev/api/utils/changelog\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:31:53.549Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/api/utils/changelog",
+	"url": "https://crawlee.dev/api/utils/changelog"
+}

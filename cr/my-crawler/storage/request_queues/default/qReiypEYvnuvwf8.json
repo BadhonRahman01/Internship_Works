@@ -1,0 +1,9 @@
+{
+	"id": "qReiypEYvnuvwf8",
+	"json": "{\"id\":\"qReiypEYvnuvwf8\",\"url\":\"https://crawlee.dev/docs/next/examples/puppeteer-recursive-crawl\",\"loadedUrl\":\"https://crawlee.dev/docs/next/examples/puppeteer-recursive-crawl\",\"uniqueKey\":\"https://crawlee.dev/docs/next/examples/puppeteer-recursive-crawl\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:32:51.057Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/docs/next/examples/puppeteer-recursive-crawl",
+	"url": "https://crawlee.dev/docs/next/examples/puppeteer-recursive-crawl"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "COj2TAhX54isb1a",
+	"json": "{\"id\":\"COj2TAhX54isb1a\",\"url\":\"https://crawlee.dev/api/core/interface/DatasetReducer\",\"loadedUrl\":\"https://crawlee.dev/api/core/interface/DatasetReducer\",\"uniqueKey\":\"https://crawlee.dev/api/core/interface/DatasetReducer\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:30:19.426Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/api/core/interface/DatasetReducer",
+	"url": "https://crawlee.dev/api/core/interface/DatasetReducer"
+}

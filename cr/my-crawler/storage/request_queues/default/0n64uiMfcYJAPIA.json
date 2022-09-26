@@ -1,0 +1,9 @@
+{
+	"id": "0n64uiMfcYJAPIA",
+	"json": "{\"id\":\"0n64uiMfcYJAPIA\",\"url\":\"https://crawlee.dev/api/types/interface/PaginatedList\",\"loadedUrl\":\"https://crawlee.dev/api/types/interface/PaginatedList\",\"uniqueKey\":\"https://crawlee.dev/api/types/interface/PaginatedList\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:32:14.676Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/api/types/interface/PaginatedList",
+	"url": "https://crawlee.dev/api/types/interface/PaginatedList"
+}

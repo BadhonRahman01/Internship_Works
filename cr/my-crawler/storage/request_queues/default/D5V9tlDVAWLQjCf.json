@@ -1,0 +1,9 @@
+{
+	"id": "D5V9tlDVAWLQjCf",
+	"json": "{\"id\":\"D5V9tlDVAWLQjCf\",\"url\":\"https://crawlee.dev/api/next/core/class/NonRetryableError\",\"loadedUrl\":\"https://crawlee.dev/api/next/core/class/NonRetryableError\",\"uniqueKey\":\"https://crawlee.dev/api/next/core/class/NonRetryableError\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:32:57.648Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/api/next/core/class/NonRetryableError",
+	"url": "https://crawlee.dev/api/next/core/class/NonRetryableError"
+}

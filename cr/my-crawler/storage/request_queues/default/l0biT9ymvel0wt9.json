@@ -1,0 +1,9 @@
+{
+	"id": "l0biT9ymvel0wt9",
+	"json": "{\"id\":\"l0biT9ymvel0wt9\",\"url\":\"https://crawlee.dev/docs/examples/crawl-single-url\",\"loadedUrl\":\"https://crawlee.dev/docs/examples/crawl-single-url\",\"uniqueKey\":\"https://crawlee.dev/docs/examples/crawl-single-url\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:30:58.336Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/docs/examples/crawl-single-url",
+	"url": "https://crawlee.dev/docs/examples/crawl-single-url"
+}

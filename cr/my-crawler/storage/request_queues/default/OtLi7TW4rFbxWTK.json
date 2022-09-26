@@ -1,0 +1,9 @@
+{
+	"id": "OtLi7TW4rFbxWTK",
+	"json": "{\"id\":\"OtLi7TW4rFbxWTK\",\"url\":\"https://crawlee.dev/api/next/types/interface/KeyValueStoreItemData\",\"loadedUrl\":\"https://crawlee.dev/api/next/types/interface/KeyValueStoreItemData\",\"uniqueKey\":\"https://crawlee.dev/api/next/types/interface/KeyValueStoreItemData\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:35:10.725Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/api/next/types/interface/KeyValueStoreItemData",
+	"url": "https://crawlee.dev/api/next/types/interface/KeyValueStoreItemData"
+}

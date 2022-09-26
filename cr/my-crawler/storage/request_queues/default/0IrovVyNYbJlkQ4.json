@@ -1,0 +1,9 @@
+{
+	"id": "0IrovVyNYbJlkQ4",
+	"json": "{\"id\":\"0IrovVyNYbJlkQ4\",\"url\":\"https://crawlee.dev/api/core/interface/RouterHandler\",\"loadedUrl\":\"https://crawlee.dev/api/core/interface/RouterHandler\",\"uniqueKey\":\"https://crawlee.dev/api/core/interface/RouterHandler\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:30:32.385Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/api/core/interface/RouterHandler",
+	"url": "https://crawlee.dev/api/core/interface/RouterHandler"
+}

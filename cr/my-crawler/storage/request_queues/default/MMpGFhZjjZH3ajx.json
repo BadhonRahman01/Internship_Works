@@ -1,0 +1,9 @@
+{
+	"id": "MMpGFhZjjZH3ajx",
+	"json": "{\"id\":\"MMpGFhZjjZH3ajx\",\"url\":\"https://crawlee.dev/api/next/core/class/ProxyConfiguration\",\"loadedUrl\":\"https://crawlee.dev/api/next/core/class/ProxyConfiguration\",\"uniqueKey\":\"https://crawlee.dev/api/next/core/class/ProxyConfiguration\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:33:01.409Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/api/next/core/class/ProxyConfiguration",
+	"url": "https://crawlee.dev/api/next/core/class/ProxyConfiguration"
+}

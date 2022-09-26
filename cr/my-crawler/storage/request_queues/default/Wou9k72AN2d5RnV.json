@@ -1,0 +1,9 @@
+{
+	"id": "Wou9k72AN2d5RnV",
+	"json": "{\"id\":\"Wou9k72AN2d5RnV\",\"url\":\"https://crawlee.dev/api/next/core/enum/LogLevel\",\"loadedUrl\":\"https://crawlee.dev/api/next/core/enum/LogLevel\",\"uniqueKey\":\"https://crawlee.dev/api/next/core/enum/LogLevel\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:33:07.644Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/api/next/core/enum/LogLevel",
+	"url": "https://crawlee.dev/api/next/core/enum/LogLevel"
+}

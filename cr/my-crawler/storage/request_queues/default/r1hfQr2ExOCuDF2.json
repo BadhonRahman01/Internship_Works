@@ -1,0 +1,9 @@
+{
+	"id": "r1hfQr2ExOCuDF2",
+	"json": "{\"id\":\"r1hfQr2ExOCuDF2\",\"url\":\"https://crawlee.dev/api/next/playwright-crawler/changelog\",\"loadedUrl\":\"https://crawlee.dev/api/next/playwright-crawler/changelog\",\"uniqueKey\":\"https://crawlee.dev/api/next/playwright-crawler/changelog\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:34:00.672Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/api/next/playwright-crawler/changelog",
+	"url": "https://crawlee.dev/api/next/playwright-crawler/changelog"
+}

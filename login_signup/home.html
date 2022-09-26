@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+
+    <link rel="stylesheet" href="style.css">
+    <!-- CSS only -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+    <title>Home Page</title>
+    <style>
+           h1{
+text-align: center;
+color:#5931de;
+}
+      /* CSS property for header section */
+      .header {
+          background-color: rgb(227, 144, 20);
+          padding: 15px;
+          text-align: center;
+      }
+       
+      /* CSS property for navigation menu */
+      .nav_menu {
+          overflow: hidden;
+          background-color: #333;
+      }
+      .nav_menu a {
+          float: left;
+          display: block;
+          color: white;
+          text-align: center;
+          padding: 14px 16px;
+          text-decoration: none;
+      }
+      .nav_menu a:hover {
+          background-color: white;
+          color: rgb(211, 149, 67);
+      }
+      img{
+        display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 40%;
+  width: 40%;
+
+      }
+  </style>
+</head>
+<body style="background-color:#d88e39;">
+  <nav class="navbar navbar-dark bg-primary">
+    <form class="d-flex" role="search">
+        <!-- <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+        <input class="btn btn-outline-secondary" type="submit" id='logout' name="logout" value="Logout" /> -->
+        <h2 style = "color:rgb(253, 242, 247);font-size:200%;">
+          <b>Login Page</b>         </h2>
+      </form>
+    <!-- Navbar content -->
+    
+    <input class="btn btn-outline-danger" type="submit" id='logout' name="logout" value="Logout" />
+  </nav>
+
+ 
+
+          <img src="login.png" alt="">
+          <br><br>
+          <!-- <h3>Location of Trademajestic Limited</h3> -->
+          <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7302.650988290568!2d90.40319536977539!3d23.771420900000006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c76045ceabd5%3A0xf1e7b96263785863!2sTrademajestic%20Limited!5e0!3m2!1sen!2sbd!4v1664099510287!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
+          
+          
+          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d14602.254272231177!2d90.3654215!3d23.7985508!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1664105200359!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          <div id="mapholder">
+            <iframe id="location_map" src="" width="600" height="450" style="border:0;" ></iframe>
+          </div>
+          <form>
+             <input type="button" onclick="getLocation();" value="Get My Current Location"/>
+          </form>
+
+
+  <!-- navigation menu for website layout -->
+  <!-- <div class = "nav_menu">
+      <a href = "#">Menu</a>
+      <a href = "#">List</a>
+      <a href = "#">Language</a>
+      <a id='logout' name="logout" value="Logout">Logout</a>
+  </div><br> -->
+   
+
+
+
+    <!-- <input type="submit" id='logout' name="logout" value="Logout" /> -->
+</body>
+<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY&callback=myMap"></script>
+<script type="text/javascript">
+  function showLocation(position) {
+     var latitude = position.coords.latitude;
+     var longitude = position.coords.longitude;
+     var latlongvalue = position.coords.latitude + ","
+     + position.coords.longitude;
+     var img_url = "https://maps.googleapis.com/maps/api/staticmap?center="
+     +latlongvalue+"&amp;zoom=14&amp;size=400x300&amp;key=AIzaSyAa8HeLH2lQMbPeOiMlM9D1VxZ7pbGQq8o";
+    //  window.open(img_url, "", width=200,height=100);
+     document.getElementById("mapholder").innerHTML =
+     "<img src='"+img_url+"'>";
+    // document.getElementById('location_map').src = img_url;
+  }
+  function errorHandler(err) {
+     if(err.code == 1) {
+        alert("Error: Location Access is denied!");
+     } else if( err.code == 2) {
+        alert("Error: Position is unavailable!");
+     }
+  }
+  function getLocation(){
+     if(navigator.geolocation){
+        // timeout at 60000 milliseconds (60 seconds)
+        var options = {timeout:60000};
+        navigator.geolocation.getCurrentPosition
+        (showLocation, errorHandler, options);
+     } else{
+        alert("Sorry, browser does not support geolocation!");
+     }
+  }
+</script>
+
+<script type="module">
+    import { getDatabase, set, ref, update } from "https://www.gstatic.com/firebasejs/9.10.0/firebase-database.js";
+    import { getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword, onAuthStateChanged, signOut } from "https://www.gstatic.com/firebasejs/9.10.0/firebase-auth.js";
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/9.10.0/firebase-app.js";
+  
+    const firebaseConfig = {
+    apiKey: "AIzaSyBEVVKQzkyOrxNHyH96sAd9q9COin1qdh4",
+    authDomain: "authantication-app-c600f.firebaseapp.com",
+    databaseURL: "https://authantication-app-c600f-default-rtdb.firebaseio.com",
+    projectId: "authantication-app-c600f",
+    storageBucket: "authantication-app-c600f.appspot.com",
+    messagingSenderId: "239026646752",
+    appId: "1:239026646752:web:5619d684a74e07385f6a85"
+  };
+
+  
+  const app = initializeApp(firebaseConfig);
+  const database = getDatabase(app);
+  const auth = getAuth();
+  
+  const user = auth.currentUser;
+
+  logout.addEventListener('click',(e)=>{
+  
+  signOut(auth).then(() => {
+
+    alert('You logged out');
+    window.location.replace("index.html");
+  }).catch((error) => {
+
+    const errorCode = error.code;
+    const errorMessage = error.message;
+  
+       alert(errorMessage);
+  });
+  
+  });
+
+onAuthStateChanged(auth, (user) => {
+  if (user) {
+
+    const uid = user.uid;
+
+  } else {
+
+  }
+});
+  
+  
+
+  </script>
+</html>
+

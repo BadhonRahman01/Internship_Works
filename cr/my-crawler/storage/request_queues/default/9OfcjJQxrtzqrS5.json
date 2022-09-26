@@ -1,0 +1,9 @@
+{
+	"id": "9OfcjJQxrtzqrS5",
+	"json": "{\"id\":\"9OfcjJQxrtzqrS5\",\"url\":\"https://crawlee.dev/api/next/browser-pool/interface/FingerprintGeneratorOptions\",\"loadedUrl\":\"https://crawlee.dev/api/next/browser-pool/interface/FingerprintGeneratorOptions\",\"uniqueKey\":\"https://crawlee.dev/api/next/browser-pool/interface/FingerprintGeneratorOptions\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:35:11.812Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/api/next/browser-pool/interface/FingerprintGeneratorOptions",
+	"url": "https://crawlee.dev/api/next/browser-pool/interface/FingerprintGeneratorOptions"
+}

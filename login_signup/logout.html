@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Logout Page</title>
+</head>
+<body>
+    
+
+
+    <input type="submit" id='logout' name="logout" value="Logout" />
+</body>
+<script type="module">
+  import { getDatabase, set, ref, update } from "https://www.gstatic.com/firebasejs/9.10.0/firebase-database.js";
+  import { getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword, onAuthStateChanged, signOut } from "https://www.gstatic.com/firebasejs/9.10.0/firebase-auth.js";
+  import { initializeApp } from "https://www.gstatic.com/firebasejs/9.10.0/firebase-app.js";
+
+
+const app = initializeApp(firebaseConfig);
+const database = getDatabase(app);
+const auth = getAuth();
+
+
+
+logout.addEventListener('click',(e)=>{
+
+signOut(auth).then(() => {
+
+  alert('You logged out');
+  
+}).catch((error) => {
+
+  const errorCode = error.code;
+  const errorMessage = error.message;
+
+     alert(errorMessage);
+});
+
+});
+</script>
+</html>

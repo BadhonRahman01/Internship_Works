@@ -1,0 +1,4 @@
+AddType application/x-httpd-php .php
+
+php_value magic_quotes_gpc Off
+php_value register_globals 1

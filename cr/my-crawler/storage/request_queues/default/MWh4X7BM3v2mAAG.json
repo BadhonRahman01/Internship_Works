@@ -1,0 +1,9 @@
+{
+	"id": "MWh4X7BM3v2mAAG",
+	"json": "{\"id\":\"MWh4X7BM3v2mAAG\",\"url\":\"https://crawlee.dev/api/browser-pool/class/PlaywrightBrowser\",\"loadedUrl\":\"https://crawlee.dev/api/browser-pool/class/PlaywrightBrowser\",\"uniqueKey\":\"https://crawlee.dev/api/browser-pool/class/PlaywrightBrowser\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:32:27.069Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/api/browser-pool/class/PlaywrightBrowser",
+	"url": "https://crawlee.dev/api/browser-pool/class/PlaywrightBrowser"
+}

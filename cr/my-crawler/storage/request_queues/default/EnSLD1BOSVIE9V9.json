@@ -1,0 +1,9 @@
+{
+	"id": "EnSLD1BOSVIE9V9",
+	"json": "{\"id\":\"EnSLD1BOSVIE9V9\",\"url\":\"https://crawlee.dev/api/next/core/interface/Cookie\",\"loadedUrl\":\"https://crawlee.dev/api/next/core/interface/Cookie\",\"uniqueKey\":\"https://crawlee.dev/api/next/core/interface/Cookie\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:33:19.153Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/api/next/core/interface/Cookie",
+	"url": "https://crawlee.dev/api/next/core/interface/Cookie"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "d46oliIrIgtaqyb",
+	"json": "{\"id\":\"d46oliIrIgtaqyb\",\"url\":\"https://crawlee.dev/docs/guides\",\"loadedUrl\":\"https://crawlee.dev/docs/guides\",\"uniqueKey\":\"https://crawlee.dev/docs/guides\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:29:40.746Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/docs/guides",
+	"url": "https://crawlee.dev/docs/guides"
+}

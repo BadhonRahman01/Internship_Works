@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- CSS only -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+    <title>Homepage</title>
+    <style>
+        h1,h2, h3{
+   text-align: center;
+   color:#DE3163;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: #f4f6f7;
+  padding: 10px;
+}
+.imgc{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 20%;
+  width: 20%;
+}
+.grid-item {
+  background-color: rgba(41, 15, 79, 0.316);
+  border: 2px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+    </style>
+</head>
+<body style="background-color:#40E0D0;">
+    <img src="tml.png" alt="" class="imgc">
+    <H1 text-align="center" >Trademajestic Limited</H1>
+    
+    <h2>Internship Program</h2>
+    <h3> All the Works Listed Below:</h3>
+    
+    <div class="grid-container">
+        <div class="grid-item">
+            <button onclick="document.location='calculator.html'" type="button" class="btn btn-info">
+                Calculator
+            </button>
+            <p> This is Calculator</p>
+        </div>
+        <div class="grid-item">
+            <button onclick="document.location='password_generator.html'" type="button" class="btn btn-info">
+                Password Generator
+            </button>
+            <p> This is Password Generator</p>
+        </div>
+        <div class="grid-item">
+            <button onclick="document.location='alarmclock.html'" type="button" class="btn btn-info">
+        Alarm Clock
+    </button>
+    <p> This is Alarm Clock</p>
+        </div>  
+        <div class="grid-item">
+            <button onclick="document.location='http://localhost/Todo_List/phpwc/script.php'" type="button" class="btn btn-info">
+        Web Crawler
+    </button>
+    <p> This is Web Crawler</p>
+        </div>
+        <div class="grid-item"><button onclick="document.location='typetest.html'" type="button" class="btn btn-info">
+            Typing Test
+         </button>
+         <p> This is Typing Test</p>
+        </div>
+        <div class="grid-item">
+            <button type="button" onclick="document.location='http://localhost/Todo_List/newrename.php'" class="btn btn-info">
+            Rename Tool
+         </button>
+         <p> This is Rename Tool</p>
+        </div>  
+        <div class="grid-item">     
+            <button onclick="document.location='http://localhost/Todo_List/php_pg/index.php'" type="button" class="btn btn-info">
+            Photo Gallery
+        </button>
+        <p> This is Photo Gallery</p>
+    </div>
+        <div class="grid-item">
+            <button onclick="document.location=''" type="button" class="btn btn-info">
+                Blogger
+            </button>
+            <p> Blogger</p>
+        </div>
+        <div class="grid-item">
+            <button onclick="document.location='login_signup/index.html'" type="button" class="btn btn-info">
+                Login-SignUp
+            </button>
+            <p> Login Signup Page using Firebase</p>
+        </div>  
+      </div>
+</body>
+</html>
+

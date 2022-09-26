@@ -1,0 +1,9 @@
+{
+	"id": "1Xlc6VFAPEMzOhU",
+	"json": "{\"id\":\"1Xlc6VFAPEMzOhU\",\"url\":\"https://crawlee.dev/docs/guides/scaling-crawlers\",\"loadedUrl\":\"https://crawlee.dev/docs/guides/scaling-crawlers\",\"uniqueKey\":\"https://crawlee.dev/docs/guides/scaling-crawlers\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:31:18.568Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/docs/guides/scaling-crawlers",
+	"url": "https://crawlee.dev/docs/guides/scaling-crawlers"
+}

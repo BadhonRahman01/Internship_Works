@@ -1,0 +1,9 @@
+{
+	"id": "OAGy83PJyXOCn12",
+	"json": "{\"id\":\"OAGy83PJyXOCn12\",\"url\":\"https://crawlee.dev/docs/guides/typescript-project\",\"loadedUrl\":\"https://crawlee.dev/docs/guides/typescript-project\",\"uniqueKey\":\"https://crawlee.dev/docs/guides/typescript-project\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:31:19.191Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/docs/guides/typescript-project",
+	"url": "https://crawlee.dev/docs/guides/typescript-project"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "kVLS7tnXIkgNI9C",
+	"json": "{\"id\":\"kVLS7tnXIkgNI9C\",\"url\":\"https://crawlee.dev/api/next/types/interface/RequestSchema\",\"loadedUrl\":\"https://crawlee.dev/api/next/types/interface/RequestSchema\",\"uniqueKey\":\"https://crawlee.dev/api/next/types/interface/RequestSchema\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:35:11.193Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/api/next/types/interface/RequestSchema",
+	"url": "https://crawlee.dev/api/next/types/interface/RequestSchema"
+}

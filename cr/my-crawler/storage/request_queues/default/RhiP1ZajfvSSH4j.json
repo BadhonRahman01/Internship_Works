@@ -1,0 +1,9 @@
+{
+	"id": "RhiP1ZajfvSSH4j",
+	"json": "{\"id\":\"RhiP1ZajfvSSH4j\",\"url\":\"https://crawlee.dev/api/types/interface/DatasetCollectionClient\",\"loadedUrl\":\"https://crawlee.dev/api/types/interface/DatasetCollectionClient\",\"uniqueKey\":\"https://crawlee.dev/api/types/interface/DatasetCollectionClient\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:32:08.390Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/api/types/interface/DatasetCollectionClient",
+	"url": "https://crawlee.dev/api/types/interface/DatasetCollectionClient"
+}

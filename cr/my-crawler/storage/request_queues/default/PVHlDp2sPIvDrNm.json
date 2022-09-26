@@ -1,0 +1,9 @@
+{
+	"id": "PVHlDp2sPIvDrNm",
+	"json": "{\"id\":\"PVHlDp2sPIvDrNm\",\"url\":\"https://crawlee.dev/api/next/browser-pool/interface/FingerprintOptions\",\"loadedUrl\":\"https://crawlee.dev/api/next/browser-pool/interface/FingerprintOptions\",\"uniqueKey\":\"https://crawlee.dev/api/next/browser-pool/interface/FingerprintOptions\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:34:35.688Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/api/next/browser-pool/interface/FingerprintOptions",
+	"url": "https://crawlee.dev/api/next/browser-pool/interface/FingerprintOptions"
+}

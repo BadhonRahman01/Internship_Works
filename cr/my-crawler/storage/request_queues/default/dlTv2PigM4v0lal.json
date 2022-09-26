@@ -1,0 +1,9 @@
+{
+	"id": "dlTv2PigM4v0lal",
+	"json": "{\"id\":\"dlTv2PigM4v0lal\",\"url\":\"https://crawlee.dev/docs/guides/avoid-blocking\",\"loadedUrl\":\"https://crawlee.dev/docs/guides/avoid-blocking\",\"uniqueKey\":\"https://crawlee.dev/docs/guides/avoid-blocking\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:31:18.619Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/docs/guides/avoid-blocking",
+	"url": "https://crawlee.dev/docs/guides/avoid-blocking"
+}

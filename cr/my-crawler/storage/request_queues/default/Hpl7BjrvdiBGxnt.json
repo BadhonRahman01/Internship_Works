@@ -1,0 +1,9 @@
+{
+	"id": "Hpl7BjrvdiBGxnt",
+	"json": "{\"id\":\"Hpl7BjrvdiBGxnt\",\"url\":\"https://crawlee.dev/api/next/memory-storage\",\"loadedUrl\":\"https://crawlee.dev/api/next/memory-storage\",\"uniqueKey\":\"https://crawlee.dev/api/next/memory-storage\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:34:42.014Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/api/next/memory-storage",
+	"url": "https://crawlee.dev/api/next/memory-storage"
+}

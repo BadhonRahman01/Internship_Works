@@ -1,0 +1,9 @@
+{
+	"id": "UNeQfxAAt4ds0Tq",
+	"json": "{\"id\":\"UNeQfxAAt4ds0Tq\",\"url\":\"https://crawlee.dev/api/next/cheerio-crawler/interface/CheerioCrawlerEnqueueLinksOptions\",\"loadedUrl\":\"https://crawlee.dev/api/next/cheerio-crawler/interface/CheerioCrawlerEnqueueLinksOptions\",\"uniqueKey\":\"https://crawlee.dev/api/next/cheerio-crawler/interface/CheerioCrawlerEnqueueLinksOptions\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:34:39.070Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/api/next/cheerio-crawler/interface/CheerioCrawlerEnqueueLinksOptions",
+	"url": "https://crawlee.dev/api/next/cheerio-crawler/interface/CheerioCrawlerEnqueueLinksOptions"
+}

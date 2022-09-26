@@ -1,0 +1,103 @@
+<html>
+<head>
+<title>Firebase Authentication Sign Up Page</title>
+<link rel="stylesheet" href="cssFile.css">
+<style>
+ 
+</style>
+</head>
+
+<body style="background-color:#84b2c9;">
+  
+<div id="login-box">
+  <div class="left">
+    <h1 id='status'>Sign Up Page</h1>
+
+
+    <input type="text" id="username" name="username" placeholder="Username" />
+
+    <input type="text" id="email" name="email" placeholder="&#42; Email" />
+    <input type="password" id="password" name="password" placeholder="&#42; Password" />
+    <div class="tacbox">
+      <input id="checkbox" type="checkbox" />
+      <label for="checkbox"> I agree to these <a href="#">Terms and Conditions</a>.</label>
+    </div>
+    
+    <input type="submit" id='signUp' name="signup_submit" value="Sign Up" />
+    <input type="submit" id='signin' name="signin_submit" value="Login" onclick="document.location='index.html'"/>
+
+  </div>
+  
+  <div class="right">
+    <span class="loginwith">Sign in with<br />social network</span>
+    <a href="https://www.facebook.com/">
+    <button class="social-signin facebook" href="https://www.facebook.com/">Log in with facebook</button>
+  </a>
+  <a href="https://www.google.com/">
+  <button class="social-signin twitter">Log in with Twitter</button>
+</a>
+<a href="https://myaccount.google.com/">
+    <button class="social-signin google">Log in with Google+</button>
+  </a>
+  </div>
+  <div class="or">OR</div>
+</div>
+</body>
+
+<script type="module">
+
+  import { getDatabase, set, ref, update } from "https://www.gstatic.com/firebasejs/9.10.0/firebase-database.js";
+  import { getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword, onAuthStateChanged, signOut } from "https://www.gstatic.com/firebasejs/9.10.0/firebase-auth.js";
+
+  import { initializeApp } from "https://www.gstatic.com/firebasejs/9.10.0/firebase-app.js";
+
+  const firebaseConfig = {
+    apiKey: "AIzaSyBEVVKQzkyOrxNHyH96sAd9q9COin1qdh4",
+    authDomain: "authantication-app-c600f.firebaseapp.com",
+    databaseURL: "https://authantication-app-c600f-default-rtdb.firebaseio.com",
+    projectId: "authantication-app-c600f",
+    storageBucket: "authantication-app-c600f.appspot.com",
+    messagingSenderId: "239026646752",
+    appId: "1:239026646752:web:5619d684a74e07385f6a85"
+  };
+
+
+  const app = initializeApp(firebaseConfig);
+
+  const database = getDatabase(app);
+  const auth = getAuth();
+
+  signUp.addEventListener('click',(e) => {
+
+  var email = document.getElementById('email').value;
+  var password = document.getElementById('password').value;
+  var username = document.getElementById('username').value;
+
+  createUserWithEmailAndPassword(auth, email, password)
+    .then((userCredential) => {
+
+      const user = userCredential.user;
+
+      set(ref(database, 'users/' + user.uid),{
+          username: username,
+          email: email,
+          password: password
+      })
+
+      alert('Sign Up Complete!Now Login'); //redirect to another page from here
+      window.location.replace("index.html");
+
+    })
+    .catch((error) => {
+      const errorCode = error.code;
+      const errorMessage = error.message;
+
+      alert(errorMessage);
+    });
+
+});
+
+
+</script>
+
+</html>

@@ -1,0 +1,9 @@
+{
+	"id": "qEHs0SXoAKc2sgx",
+	"json": "{\"id\":\"qEHs0SXoAKc2sgx\",\"url\":\"https://crawlee.dev/docs/upgrading\",\"loadedUrl\":\"https://crawlee.dev/docs/upgrading\",\"uniqueKey\":\"https://crawlee.dev/docs/upgrading\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:30:40.277Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/docs/upgrading",
+	"url": "https://crawlee.dev/docs/upgrading"
+}

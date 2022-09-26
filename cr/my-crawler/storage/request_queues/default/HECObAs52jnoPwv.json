@@ -1,0 +1,9 @@
+{
+	"id": "HECObAs52jnoPwv",
+	"json": "{\"id\":\"HECObAs52jnoPwv\",\"url\":\"https://crawlee.dev/api/next/playwright-crawler\",\"loadedUrl\":\"https://crawlee.dev/api/next/playwright-crawler\",\"uniqueKey\":\"https://crawlee.dev/api/next/playwright-crawler\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:34:01.690Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/api/next/playwright-crawler",
+	"url": "https://crawlee.dev/api/next/playwright-crawler"
+}

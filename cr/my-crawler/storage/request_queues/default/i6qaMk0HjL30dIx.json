@@ -1,0 +1,9 @@
+{
+	"id": "i6qaMk0HjL30dIx",
+	"json": "{\"id\":\"i6qaMk0HjL30dIx\",\"url\":\"https://crawlee.dev/docs/examples/playwright-crawler\",\"loadedUrl\":\"https://crawlee.dev/docs/examples/playwright-crawler\",\"uniqueKey\":\"https://crawlee.dev/docs/examples/playwright-crawler\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:30:57.685Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/docs/examples/playwright-crawler",
+	"url": "https://crawlee.dev/docs/examples/playwright-crawler"
+}

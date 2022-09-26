@@ -1,0 +1,9 @@
+{
+	"id": "OznMS3Z9WLOihj4",
+	"json": "{\"id\":\"OznMS3Z9WLOihj4\",\"url\":\"https://crawlee.dev/api/next/core/enum/EventType\",\"loadedUrl\":\"https://crawlee.dev/api/next/core/enum/EventType\",\"uniqueKey\":\"https://crawlee.dev/api/next/core/enum/EventType\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:33:07.519Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/api/next/core/enum/EventType",
+	"url": "https://crawlee.dev/api/next/core/enum/EventType"
+}

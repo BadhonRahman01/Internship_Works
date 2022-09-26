@@ -1,0 +1,9 @@
+{
+	"id": "H67VlXsWAR2y2M9",
+	"json": "{\"id\":\"H67VlXsWAR2y2M9\",\"url\":\"https://crawlee.dev/api/types/interface/Cookie\",\"loadedUrl\":\"https://crawlee.dev/api/types/interface/Cookie\",\"uniqueKey\":\"https://crawlee.dev/api/types/interface/Cookie\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:32:10.416Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/api/types/interface/Cookie",
+	"url": "https://crawlee.dev/api/types/interface/Cookie"
+}

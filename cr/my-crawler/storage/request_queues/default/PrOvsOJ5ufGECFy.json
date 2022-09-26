@@ -1,0 +1,9 @@
+{
+	"id": "PrOvsOJ5ufGECFy",
+	"json": "{\"id\":\"PrOvsOJ5ufGECFy\",\"url\":\"https://crawlee.dev/api/browser-pool/enum/OperatingSystemsName\",\"loadedUrl\":\"https://crawlee.dev/api/browser-pool/enum/OperatingSystemsName\",\"uniqueKey\":\"https://crawlee.dev/api/browser-pool/enum/OperatingSystemsName\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:32:27.242Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/api/browser-pool/enum/OperatingSystemsName",
+	"url": "https://crawlee.dev/api/browser-pool/enum/OperatingSystemsName"
+}

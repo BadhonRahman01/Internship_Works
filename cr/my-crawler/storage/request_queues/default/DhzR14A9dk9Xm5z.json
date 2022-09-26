@@ -1,0 +1,9 @@
+{
+	"id": "DhzR14A9dk9Xm5z",
+	"json": "{\"id\":\"DhzR14A9dk9Xm5z\",\"url\":\"https://crawlee.dev/docs/guides/cheerio-crawler-guide\",\"loadedUrl\":\"https://crawlee.dev/docs/guides/cheerio-crawler-guide\",\"uniqueKey\":\"https://crawlee.dev/docs/guides/cheerio-crawler-guide\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:31:13.972Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/docs/guides/cheerio-crawler-guide",
+	"url": "https://crawlee.dev/docs/guides/cheerio-crawler-guide"
+}

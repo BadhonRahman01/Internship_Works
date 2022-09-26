@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css"
+      integrity="sha256-sA+zWATbFveLLNqWO2gtiw3HL/lh1giY/Inf1BJ0z14=" crossorigin="" />
+   <script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js"
+      integrity="sha256-NDI0K41gVbWqfkkaHj15IzU7PtMoelkzyKp8TOaFQ3s=" crossorigin=""></script>
+   <!-- <link rel="stylesheet" href="style.css"> -->
+   <title>Google Map</title>
+   <html>
+
+   <head>
+      <style>
+         #map {
+            height: 400px;
+         }
+      </style>
+   </head>
+
+<body>
+   <div id="map"></div>
+</body>
+
+</html>
+<script>
+   navigator.geolocation.getCurrentPosition((position)) => {
+      let { latitude, longitude } = position.coords;
+
+      var map = L.map('map').setView([latitude, longitude], 19);
+
+      L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+         maxZoom: 19,
+         minZoom: 1,
+         attribution: '© OpenStreetMap'
+      }).addTo(map);
+      L.marker([latitude, longitude]).addTo(map);
+   };
+</script>
+</body>
+
+</html>

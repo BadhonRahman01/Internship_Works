@@ -1,0 +1,9 @@
+{
+	"id": "DJz5pv2714JZN2h",
+	"json": "{\"id\":\"DJz5pv2714JZN2h\",\"url\":\"https://crawlee.dev/api/utils/function/htmlToText\",\"loadedUrl\":\"https://crawlee.dev/api/utils/function/htmlToText\",\"uniqueKey\":\"https://crawlee.dev/api/utils/function/htmlToText\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:31:55.888Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/api/utils/function/htmlToText",
+	"url": "https://crawlee.dev/api/utils/function/htmlToText"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "XTB7CbKpV29XA65",
+	"json": "{\"id\":\"XTB7CbKpV29XA65\",\"url\":\"https://crawlee.dev/api/puppeteer-crawler/namespace/puppeteerRequestInterception\",\"loadedUrl\":\"https://crawlee.dev/api/puppeteer-crawler/namespace/puppeteerRequestInterception\",\"uniqueKey\":\"https://crawlee.dev/api/puppeteer-crawler/namespace/puppeteerRequestInterception\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:31:45.431Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/api/puppeteer-crawler/namespace/puppeteerRequestInterception",
+	"url": "https://crawlee.dev/api/puppeteer-crawler/namespace/puppeteerRequestInterception"
+}

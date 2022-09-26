@@ -1,0 +1,9 @@
+{
+	"id": "B8HZpjHSC34Q07B",
+	"json": "{\"id\":\"B8HZpjHSC34Q07B\",\"url\":\"https://crawlee.dev/docs/next/examples/add-data-to-dataset\",\"loadedUrl\":\"https://crawlee.dev/docs/next/examples/add-data-to-dataset\",\"uniqueKey\":\"https://crawlee.dev/docs/next/examples/add-data-to-dataset\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:32:42.769Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/docs/next/examples/add-data-to-dataset",
+	"url": "https://crawlee.dev/docs/next/examples/add-data-to-dataset"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "KJhsCwdbwalXCqZ",
+	"json": "{\"id\":\"KJhsCwdbwalXCqZ\",\"url\":\"https://crawlee.dev/docs/next/introduction/real-world-project\",\"loadedUrl\":\"https://crawlee.dev/docs/next/introduction/real-world-project\",\"uniqueKey\":\"https://crawlee.dev/docs/next/introduction/real-world-project\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:31:06.490Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/docs/next/introduction/real-world-project",
+	"url": "https://crawlee.dev/docs/next/introduction/real-world-project"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "cDPbu3wylVI8qRj",
+	"json": "{\"id\":\"cDPbu3wylVI8qRj\",\"url\":\"https://crawlee.dev/api/http-crawler/interface/HttpCrawlerOptions\",\"loadedUrl\":\"https://crawlee.dev/api/http-crawler/interface/HttpCrawlerOptions\",\"uniqueKey\":\"https://crawlee.dev/api/http-crawler/interface/HttpCrawlerOptions\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:31:25.661Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/api/http-crawler/interface/HttpCrawlerOptions",
+	"url": "https://crawlee.dev/api/http-crawler/interface/HttpCrawlerOptions"
+}

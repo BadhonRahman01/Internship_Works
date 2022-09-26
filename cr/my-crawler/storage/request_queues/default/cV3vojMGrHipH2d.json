@@ -1,0 +1,9 @@
+{
+	"id": "cV3vojMGrHipH2d",
+	"json": "{\"id\":\"cV3vojMGrHipH2d\",\"url\":\"https://crawlee.dev/api/next/core/interface/AutoscaledPoolOptions\",\"loadedUrl\":\"https://crawlee.dev/api/next/core/interface/AutoscaledPoolOptions\",\"uniqueKey\":\"https://crawlee.dev/api/next/core/interface/AutoscaledPoolOptions\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:33:17.495Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/api/next/core/interface/AutoscaledPoolOptions",
+	"url": "https://crawlee.dev/api/next/core/interface/AutoscaledPoolOptions"
+}

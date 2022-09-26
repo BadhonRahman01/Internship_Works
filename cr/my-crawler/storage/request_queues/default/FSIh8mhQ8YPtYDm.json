@@ -1,0 +1,9 @@
+{
+	"id": "FSIh8mhQ8YPtYDm",
+	"json": "{\"id\":\"FSIh8mhQ8YPtYDm\",\"url\":\"https://crawlee.dev/docs/next/guides/apify-platform\",\"loadedUrl\":\"https://crawlee.dev/docs/next/guides/apify-platform\",\"uniqueKey\":\"https://crawlee.dev/docs/next/guides/apify-platform\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-20T05:32:52.761Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/docs/next/guides/apify-platform",
+	"url": "https://crawlee.dev/docs/next/guides/apify-platform"
+}

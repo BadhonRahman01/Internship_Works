@@ -1,0 +1,108 @@
+<html>
+<head>
+<title>Firebase Authentication Login Page</title>
+<link rel="stylesheet" href="cssFile.css">
+</head>
+<style>
+  h1{
+text-align: center;
+color:#5931de;
+}
+</style>
+<body style="background-color:#84c9c2;">
+  <!-- <h1 text-align="center" ><b>Login with Firebase Authentication</b></h1> -->
+<div id="login-box">
+  <div class="left">
+
+    <h2>Welcome to Login Page</h2>
+    <input type="text" id="email" name="email" placeholder="&#42; Email" />
+    <input type="password" id="password" name="password" placeholder="&#42; Password" />
+    
+    <input type="submit" id='login' name="login" value="Login" />
+
+    <input type="submit" id='signUp' name="signup_submit" value="Sign Up" onclick="document.location='signup.html'"/>
+  </div>
+  
+  <div class="right">
+    <span class="loginwith">Sign in with<br />social network</span>
+    <a href="https://www.facebook.com/">
+    <button class="social-signin facebook" href="https://www.facebook.com/">Log in with facebook</button>
+  </a>
+  <a href="https://www.google.com/">
+  <button class="social-signin twitter">Log in with Twitter</button>
+</a>
+<a href="https://myaccount.google.com/">
+    <button class="social-signin google">Log in with Google+</button>
+  </a>
+  </div>
+  <div class="or">OR</div>
+</div>
+</body>
+
+<script type="module">
+
+  import { getDatabase, set, ref, update } from "https://www.gstatic.com/firebasejs/9.10.0/firebase-database.js";
+  import { getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword, onAuthStateChanged, signOut } from "https://www.gstatic.com/firebasejs/9.10.0/firebase-auth.js";
+
+  import { initializeApp } from "https://www.gstatic.com/firebasejs/9.10.0/firebase-app.js";
+
+  const firebaseConfig = {
+    apiKey: "AIzaSyBEVVKQzkyOrxNHyH96sAd9q9COin1qdh4",
+    authDomain: "authantication-app-c600f.firebaseapp.com",
+    databaseURL: "https://authantication-app-c600f-default-rtdb.firebaseio.com",
+    projectId: "authantication-app-c600f",
+    storageBucket: "authantication-app-c600f.appspot.com",
+    messagingSenderId: "239026646752",
+    appId: "1:239026646752:web:5619d684a74e07385f6a85"
+  };
+
+
+  const app = initializeApp(firebaseConfig);
+
+  const database = getDatabase(app);
+  const auth = getAuth();
+
+
+ login.addEventListener('click',(e)=>{
+   var email = document.getElementById('email').value;
+   var password = document.getElementById('password').value;
+
+      signInWithEmailAndPassword(auth, email, password)
+      .then((userCredential) => {
+        // Signed in 
+        const user = userCredential.user;
+
+        const dt = new Date();
+         update(ref(database, 'users/' + user.uid),{
+          last_login: dt,
+        })
+
+         alert('User logged in!');
+         window.location.replace("home.html");
+        // ...
+      })
+      .catch((error) => {
+        const errorCode = error.code;
+        const errorMessage = error.message;
+
+        alert(errorMessage);
+  });
+
+ });
+
+const user = auth.currentUser;
+onAuthStateChanged(auth, (user) => {
+  if (user) {
+
+    const uid = user.uid;
+
+  } else {
+
+  }
+});
+
+
+
+</script>
+
+</html>
