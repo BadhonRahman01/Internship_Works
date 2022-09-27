@@ -16,9 +16,10 @@
       crossorigin="anonymous"
     />
     <script
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBwWnTI_T-0AHcZK29ZIOTsK0KYYhMFqnM"
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB41DRUbKWJHPxaFjMAwdrzWzbVKartNGg&callback=initMap&v=weekly"
     defer
   ></script>
+
     <title>Home Page</title>
     <style>
       h1 {
@@ -111,10 +112,10 @@
 
 </script>
   <!-- Live location function -->
-  <script
+  <!-- <script
     type="text/javascript"
     src="http://maps.googleapis.com/maps/api/js?sensor=false"
-  ></script>
+  ></script> -->
   <script type="text/javascript">
     if (navigator.geolocation) {
       navigator.geolocation.getCurrentPosition(function (p) {
@@ -136,9 +137,9 @@
           position: LatLng,
           map: map,
           title:
-            "<div style = 'height:100%;width:100%'><b>Your location:</b><br />Latitude: " +
+            "Your location=Latitude: " +
             p.coords.latitude +
-            "<br />Longitude: " +
+            "Longitude: " +
             p.coords.longitude,
         });
         google.maps.event.addListener(marker, "click", function (e) {

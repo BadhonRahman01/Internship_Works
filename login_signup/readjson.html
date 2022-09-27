@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src=
+"https://code.jquery.com/jquery-3.5.1.js">
+    </script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"> </script>
+
+    <title>Document</title>
+</head>
+<body>
+
+        <h1>Find JSON</h1>
+  
+        <!-- <script type="module" src="./postman.js"></script> -->
+        <!-- <button onclick="readTextFile()">Read Json File<button> -->
+
+        <!-- <script type="text/javascript" src="postman.json"></script> -->
+    <script>
+                var data = fetch("https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=23.7732245%2C90.4075326&radius=1500&type=restaurant&keyword=burger&key=AIzaSyBwWnTI_T-0AHcZK29ZIOTsK0KYYhMFqnM");
+        console.log(data);
+        fetch(data).then((response) => {
+          return response.json()}).then((json) => {
+          json.results.forEach( (i)=>{
+            const LatLng = { lat: i.geometry.location.lat, lng: i.geometry.location.lng };
+            console.log(LatLng);
+
+
+
+        })
+         });
+//         function readTextFile("postman.json", callback) {
+//     var rawFile = new XMLHttpRequest();
+//     rawFile.overrideMimeType("application/json");
+//     rawFile.open("GET", "postman.json", true);
+//     rawFile.onreadystatechange = function() {
+//         if (rawFile.readyState === 4 && rawFile.status == "200") {
+//             callback(rawFile.responseText);
+//         }
+//     }
+//     rawFile.send(null);
+// }
+//         readTextFile("/postman.json", function(text){
+//     var data = JSON.parse(text);
+//     console.log(data);
+// });
+//  fetch('localhost/Todo_List/login_signup/postman.json')
+//     .then((response) => response.json())
+//     .then((json) => console.log(json));
+// let json = require('postman.json');
+// console.log(json, 'the json obj');
+
+// fetch("postman.json")
+//   .then(response => response.json())
+//   .then(json => console.log(json));
+</script>
+
+
+
+</body>
+</html>
