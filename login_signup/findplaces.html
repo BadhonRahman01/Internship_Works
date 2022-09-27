@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Find Places</title>
+</head>
+<body>
+    <button onclick="initialize()"> Find places</button>
+</body>
+<script src="https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=23.7732245%2C90.4075326&radius=1500&type=restaurant&keyword=burger&key=AIzaSyBwWnTI_T-0AHcZK29ZIOTsK0KYYhMFqnM"></script>
+<script type="text/javascript">
+  var map;
+var service;
+var infowindow;
+
+function initialize() {
+  var LatLng = new google.maps.LatLng( coords.latitude, coords.longitude);
+
+  map = new google.maps.Map(document.getElementById('map'), {
+      center: LatLng,
+      zoom: 15
+    });
+
+  var request = {
+    location: LatLng,
+    radius: '1500',
+    type: ['restaurant']
+  };
+  service = new google.maps.places.PlacesService(map);
+  service.nearbySearch(request, callback);
+}
+
+function callback(results, status) {
+  if (status == google.maps.places.PlacesServiceStatus.OK) {
+    for (var i = 0; i < results.length; i++) {
+      createMarker(results[i]);
+    }
+  }
+}
+    //         function getNearbyPlaces(LatLng) {
+    //     let request = {
+    //     location: LatLng,
+    //     rankBy: google.maps.places.RankBy.DISTANCE,
+    //     keyword: 'hotel'
+    //   };
+
+    //   service = new google.maps.places.PlacesService(map);
+    //   service.nearbySearch(request, nearbyCallback);
+    // }
+    // function nearbyCallback(results, status) {
+    //   if (status == google.maps.places.PlacesServiceStatus.OK) {
+    //     createMarkers(results);
+    //   }
+    // }
+    //  getNearbyPlaces(LatLng);
+</script>
+
+</html>
