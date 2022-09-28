@@ -25,19 +25,40 @@
 //        GetJson()
 // fetch('postman.json')
 // .then(res) => {return res.json()}
+if (navigator.geolocation) {
+  navigator.geolocation.getCurrentPosition(function (p) {
+        var mapOptions = {
+          center: { lat: 23.7732245, lng: 90.4075326 },
+          zoom: 16,
+          mapTypeId: 'roadmap',
+        };
 
-
-fetch('/login_signup/postman.json')
+fetch('./postman.json')
 .then((response) => { return response.json()})
 .then((json) => {
 
-      console.log(json);
+  json.results.forEach( (i)=>{
 
-
-    })
-
-
-
+  const LatLng = { lat: i.geometry.location.lat, lng: i.geometry.location.lng };
+            console.log(LatLng);
+            var marker = new google.maps.Marker({
+              position: LatLng,
+               map: mapOptions,
+               title: i.name,
+               icon: i.icon,
+               open_now: i.opening_hours.open_now,
+               rating: i.rating
+             });
+           })
+         });
+         var map = new google.maps.Map(
+          document.getElementById("dvMap"),
+          mapOptions
+        );
+      });
+    } else {
+      alert("Geo Location feature is not supported in this browser.");
+    }
 
 //         fetch('https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=23.7732245%2C90.4075326&radius=1500&type=restaurant&keyword=burger&key=AIzaSyBwWnTI_T-0AHcZK29ZIOTsK0KYYhMFqnM')
 //     .then(res => res.json())

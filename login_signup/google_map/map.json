@@ -1,0 +1,883 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "AcYSjRiNIs4JL6JDvviPn8LLXSdlBxDy3aiJgJKnBd-9sYIUqT-yOXb--wZQR4LokNHNzmiq6heF6zsSicD7-gdoqZiEgMdImesusq8Sv1Ii1YaKDFCOp3ZezabbZ2a3ECwl7ZnSEHC6ffB4aOfqr0sIQcqJJvD4wgsKPCNHgX131ULJxjlviptD3FI5572oVjqK_3DwfHEnZRTcTy8bJljQc0mSjipsCvJMy15elsx3Kv3-9vVPoEd9Xs7oz3L2h4yQR-aTckoPNZ3rFOgRsaM-f812y2pyZr8JRtlct6DVsi9GY-cwUiuZ93uAl2XiMNxsL7mckNqIiRvp5HZhdGabptdgpNMzwgqPvndVNGSMVBrC4NVpo-pupabebzBsg2kn1YcUXBTgFQZcsK7wCx6YdtXilmxmX13e6t9wMDq6IiFKkwIp0ctfgIvG81dfDgcW8UZljLg",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.7851914,
+               "lng" : 90.4229989
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.78654587989272,
+                  "lng" : 90.42428907989272
+               },
+               "southwest" : {
+                  "lat" : 23.78384622010728,
+                  "lng" : 90.42158942010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "3's Coffee & Burger Shop",
+         "place_id" : "ChIJe-b6mifHVTcRYFdGXq8Qn3A",
+         "plus_code" : {
+            "compound_code" : "QCPF+35 Dhaka",
+            "global_code" : "7MMGQCPF+35"
+         },
+         "rating" : 0,
+         "reference" : "ChIJe-b6mifHVTcRYFdGXq8Qn3A",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "1212 Matabbar Rd, Dhaka"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.7708882,
+               "lng" : 90.40515689999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.77216027989272,
+                  "lng" : 90.40649257989271
+               },
+               "southwest" : {
+                  "lat" : 23.76946062010727,
+                  "lng" : 90.40379292010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "O! Burger BD",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114421925051645348721\"\u003eAmirul Islam Lisan\u003c/a\u003e"
+               ],
+               "photo_reference" : "AcYSjRgY075LNtdQAoPPKh9aPmySRoRiTfWRvVc0MxNuG9kPBCAXK69Oo4sJjdyFnJWrLZBYc3E2BYL_LmgJRTRSoqvJm7g_HkyAVKFQjXjDYw53cNfT6OgfjYGvmmTPT6hLVkBCqp6WBvIj-pA3ydMQGsdgh4Uc6b7Wz938alviYgCD4Smx",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJ9SMAwzjHVTcR98pcFs8MFNM",
+         "rating" : 4.8,
+         "reference" : "ChIJ9SMAwzjHVTcR98pcFs8MFNM",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "QCC4+83J, Bir Uttam Mir Shawkat Sarak, Dhaka"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.7577487,
+               "lng" : 90.42216529999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.75911612989272,
+                  "lng" : 90.42352632989272
+               },
+               "southwest" : {
+                  "lat" : 23.75641647010728,
+                  "lng" : 90.42082667010729
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Burger n Co. Rampura",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108689902255056208206\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AcYSjRigS_thnp5P12s8oWF8eKkuFcjhW3xjola9Fm55K1YQRmTRCu0cBBsx3CQp0dbI99Y8dYVL811oDYAhPrjFyWLXEQC-ER9nrsgDxcs0l9jf9DMXGlxCRHLLewLao4mMjFf_DEvcxV1Qk08NCytABcjhXTwIfpWIDvjILbHxaUnmC65V",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJT6qglDW5VTcRCHaGU6iu23g",
+         "plus_code" : {
+            "compound_code" : "QC5C+3V Dhaka",
+            "global_code" : "7MMGQC5C+3V"
+         },
+         "rating" : 5,
+         "reference" : "ChIJT6qglDW5VTcRCHaGU6iu23g",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "39, 17 Dabanol Songsod Sorok, Dhaka"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.7833358,
+               "lng" : 90.4219669
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.78469177989272,
+                  "lng" : 90.42331782989272
+               },
+               "southwest" : {
+                  "lat" : 23.78199212010728,
+                  "lng" : 90.42061817010729
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Mad Burger",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1755,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111708881367630204130\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AcYSjRhhrzZiQ6Sz8bjiPhMomyO8o0M9Z0QFNri3KXxBvUX07fV4Q69CuswstfLudFImwryfVbpFHE7qcVymcKvUQDtQSFeY4OwQbL8yLktjNjHawv-gqXr82EqEWCGy7WeriC8LPFtYOV5cZJWvrKeBsc6WfrYFAEoXucT1obqvCCi_P_hu",
+               "width" : 2702
+            }
+         ],
+         "place_id" : "ChIJ__o994fHVTcR-e7OBqboPnA",
+         "plus_code" : {
+            "compound_code" : "QCMC+8Q Dhaka",
+            "global_code" : "7MMGQCMC+8Q"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJ__o994fHVTcR-e7OBqboPnA",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 37,
+         "vicinity" : "Dhaka"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.7725534,
+               "lng" : 90.4209458
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.77390872989272,
+                  "lng" : 90.42240527989273
+               },
+               "southwest" : {
+                  "lat" : 23.77120907010728,
+                  "lng" : 90.41970562010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "K & K Burger and coffee ( Burger wala)",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117017526524874709466\"\u003esajid hossain\u003c/a\u003e"
+               ],
+               "photo_reference" : "AcYSjRh1yrqT8-se7waeTUZ29Xcq8VuPsGotKOSri-m6JwFGkz8ddTo8dGUFu8Y-GrqjafSbcZYzJjHmjhfwws7br1j_6LArcjwnM7T7KXroKn_MNk-J7G5bGdYZgNJDpvgvxHhQTCYSAMEhljL26p-yosCHx5TooU36wS0FBMVUqAgnIjnM",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJUYe5qqHHVTcRZE0B9TVNBok",
+         "plus_code" : {
+            "compound_code" : "QCFC+29 Dhaka",
+            "global_code" : "7MMGQCFC+29"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJUYe5qqHHVTcRZE0B9TVNBok",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 41,
+         "vicinity" : "40 S Badda Rd, Dhaka"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.7818699,
+               "lng" : 90.416084
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.78322112989272,
+                  "lng" : 90.41739922989272
+               },
+               "southwest" : {
+                  "lat" : 23.78052147010728,
+                  "lng" : 90.41469957010729
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "খুপরি বার্গার",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102476832961550986555\"\u003eFarhan Nasrullah\u003c/a\u003e"
+               ],
+               "photo_reference" : "AcYSjRhJfK3wUMJgu-iq73BBb6q8UDdrczrif0AKw4a6QjYwo-mmfvqjj-3URrTUHVe5fW78g0B-DTlrzTbnCvRm7qPLTFlgsJOQJf_t16Xu7gqOHlUQVx1S8tWjxb1MS4qwVrO6QFLMrP8_y-U1NXrHWkr4Q1pgevHzkyeNGr7sAqvk4Lg",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJQZLxv57HVTcRcPiafdodsVE",
+         "plus_code" : {
+            "compound_code" : "QCJ8+PC Dhaka",
+            "global_code" : "7MMGQCJ8+PC"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJQZLxv57HVTcRcPiafdodsVE",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 28,
+         "vicinity" : "Road No 22A, Dhaka"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.7790856,
+               "lng" : 90.4080451
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.78039992989272,
+                  "lng" : 90.40939677989272
+               },
+               "southwest" : {
+                  "lat" : 23.77770027010728,
+                  "lng" : 90.40669712010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Burger Monster",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJz-1yUS7HVTcRo5cCKH_GVM4",
+         "plus_code" : {
+            "compound_code" : "QCH5+J6 Dhaka",
+            "global_code" : "7MMGQCH5+J6"
+         },
+         "rating" : 5,
+         "reference" : "ChIJz-1yUS7HVTcRo5cCKH_GVM4",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7,
+         "vicinity" : "GP-Cha 187, 1 TB Gate Rd, Dhaka"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.7780395,
+               "lng" : 90.4211382
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.77938662989272,
+                  "lng" : 90.42246332989272
+               },
+               "southwest" : {
+                  "lat" : 23.77668697010728,
+                  "lng" : 90.41976367010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Burger House Tastism",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100615697677469423254\"\u003eMahbub Alam\u003c/a\u003e"
+               ],
+               "photo_reference" : "AcYSjRhRevMfi7mZmnM0ieaHj0RXeVPltNbywF3dpHusvjxuv3bRpuI0dIqFGzmL9iCHHwUQbGqrJUwYghdwB6g_LgrCDMyQYq2KmaGtjLltPG49ezZM2r6yUX6sRNjhuEvTvhheehxZrIG8G6ey-7JG9y8Ei8bWkEEZ9XQo3mM-aJqJT-HC",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJmcJ-LhjHVTcRwnCaMocMYwQ",
+         "rating" : 4.3,
+         "reference" : "ChIJmcJ-LhjHVTcRwnCaMocMYwQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 20,
+         "vicinity" : "QCHC+6C9, Dhaka"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.783319,
+               "lng" : 90.42555259999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.78465912989272,
+                  "lng" : 90.42690222989272
+               },
+               "southwest" : {
+                  "lat" : 23.78195947010728,
+                  "lng" : 90.42420257010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Pupi Burger's Live Kitchen",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105333179388968571083\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AcYSjRjlsxfVae9p2qWT38oNPxJRxeH84Vk8QAReaSmi_VPICUeN-kGnIBdsUiowyf2xiEY683fzCQfLZLvYtoDSgdWVMwX4LHAooTa8YfWpvcMZCOmrpMsbk8YXbpuGC-q6OQXeYzIuFbOAqvdQtZoDL23x0FpFsABXvywXYW9VsrxoyHvs",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJccCtWpbHVTcR8Ihfsw1Y6Rs",
+         "plus_code" : {
+            "compound_code" : "QCMG+86 Dhaka",
+            "global_code" : "7MMGQCMG+86"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJccCtWpbHVTcR8Ihfsw1Y6Rs",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8,
+         "vicinity" : "Cha-72/5, Pragati Sarani, Dhaka"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.7686351,
+               "lng" : 90.42460640000002
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.76993417989272,
+                  "lng" : 90.42592437989272
+               },
+               "southwest" : {
+                  "lat" : 23.76723452010728,
+                  "lng" : 90.42322472010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Ice N Burger",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103670389240535590706\"\u003esaif ahmed\u003c/a\u003e"
+               ],
+               "photo_reference" : "AcYSjRg9izh-A7Opk-4ChmOEl0XeEqN7OUMItYOsQNcKdgat-FcS4S-I3AX2oUZQRpoz9hTH7tJNZ9TJ4py3Xo6N5p4VK3xZ2Wf6Fmu16zhUbYGaxmdafOGIOfqsYEfnzMHAKS0ZByxxy588Au8uOUh75dbTWSl2mZOZg8d69fEdUBG9QBSc",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJtyCM6cLHVTcR9zjABYwIDBY",
+         "plus_code" : {
+            "compound_code" : "QC9F+FR Dhaka",
+            "global_code" : "7MMGQC9F+FR"
+         },
+         "rating" : 3,
+         "reference" : "ChIJtyCM6cLHVTcR9zjABYwIDBY",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Aftabnagar Main Road, Dhaka"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.7803732,
+               "lng" : 90.42540129999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.78166547989272,
+                  "lng" : 90.42674657989271
+               },
+               "southwest" : {
+                  "lat" : 23.77896582010727,
+                  "lng" : 90.42404692010726
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Burger People",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104317977076896133142\"\u003eMna Sam\u003c/a\u003e"
+               ],
+               "photo_reference" : "AcYSjRhxVaA4W47uD7IboTFB7MCdXDs75orvQ3sDkO4rfsB3lEcjyhheOKfuCoscezEN3L3N_Rob4Y0JgxKQx0k7lWt-FAKI1J2EsqKpnwMvvH2mp8rZNThYQXhRn5cuAGnV6NSVKVglgDjlQMRcNORLceWzvF0kZwT-_ZMFRpElCCfmWlwU",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJ46gK6ObHVTcR67LEYfCYIkY",
+         "plus_code" : {
+            "compound_code" : "QCJG+45 Dhaka",
+            "global_code" : "7MMGQCJG+45"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ46gK6ObHVTcR67LEYfCYIkY",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 82,
+         "vicinity" : "MF Tower, Level 1, Bir Uttam Rafiqul Islam Avenue Link Road, Circle, Dhaka"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.7907936,
+               "lng" : 90.40565599999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.79208772989272,
+                  "lng" : 90.40699597989271
+               },
+               "southwest" : {
+                  "lat" : 23.78938807010728,
+                  "lng" : 90.40429632010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Ricky's Burgers",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117704417234310655832\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AcYSjRgV8KfCvaSd4BHEQHx2iffGUkiRDi1pPqL2gUboKhm2WPAfLzVOQuo1GowoFs0TXHPUL9-GRTz7Rt16uMbK8eAg7-rQxmGgh_0xITKgSIZTlEFY_0DxfF-JKrrSj8GDg7hegA07n4ioyLWkIXTJ5meUQCAVbvYVSADE8TRxpFwI6dV0",
+               "width" : 2666
+            }
+         ],
+         "place_id" : "ChIJeXpiaZnHVTcRQp7Js2cznFE",
+         "plus_code" : {
+            "compound_code" : "QCR4+87 Dhaka",
+            "global_code" : "7MMGQCR4+87"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJeXpiaZnHVTcRQp7Js2cznFE",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 61,
+         "vicinity" : "Rooftop, 71 Rd No. 11, Dhaka"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.7581742,
+               "lng" : 90.38846009999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.75956852989272,
+                  "lng" : 90.38980842989272
+               },
+               "southwest" : {
+                  "lat" : 23.75686887010728,
+                  "lng" : 90.38710877010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "New Burger King",
+         "photos" : [
+            {
+               "height" : 767,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108724188344481670509\"\u003eMuhammed Waliur Rahman\u003c/a\u003e"
+               ],
+               "photo_reference" : "AcYSjRjHQ8yGsvL8ckFfioOvTYTsQ1lXTYiMWwxw_KUBcj4Izz93DkhMonUbkY0pepHX8e-1t4AoQ_1E2jzVHm8M6jhtgWmg0EHaaCzICWEwODyV-Y7eY9m6-i40FyLjHfb9U8EZmWDxRqKdQiXlri23XrmVKuadlheGlGsSLDbi9uNX2dq2",
+               "width" : 1023
+            }
+         ],
+         "place_id" : "ChIJqyCGYUC5VTcRFF7odWhkWMM",
+         "plus_code" : {
+            "compound_code" : "Q95Q+79 Dhaka",
+            "global_code" : "7MMGQ95Q+79"
+         },
+         "rating" : 0,
+         "reference" : "ChIJqyCGYUC5VTcRFF7odWhkWMM",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "4/A Indira Rd, Dhaka"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.777321,
+               "lng" : 90.4164136
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.77866967989273,
+                  "lng" : 90.41777527989271
+               },
+               "southwest" : {
+                  "lat" : 23.77597002010728,
+                  "lng" : 90.41507562010726
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Farmhouse Burger",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1853,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104369999112676364366\"\u003eMd.Mizanur\u003c/a\u003e"
+               ],
+               "photo_reference" : "AcYSjRhDf1XBpynuzUTcdKUDgSmQowchDnyRoYy7GE_2yleokVMT7EQG4UeKboJjgrSHldRgDrSAAYbeP340NFxruhLZT6nl2eceMgfFuONMVZXnPDCg6gXn9djj_PyCCpkmx9GGeLsYQ3zMAytCf06NRpEMKUfJMEDN6VJ_b35uW43X7Gnj",
+               "width" : 2011
+            }
+         ],
+         "place_id" : "ChIJnfZJWrXHVTcRU10i9jByMhs",
+         "plus_code" : {
+            "compound_code" : "QCG8+WH Dhaka",
+            "global_code" : "7MMGQCG8+WH"
+         },
+         "price_level" : 4,
+         "rating" : 4.3,
+         "reference" : "ChIJnfZJWrXHVTcRU10i9jByMhs",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1702,
+         "vicinity" : "23 Gulshan Ave, Dhaka"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.7802341,
+               "lng" : 90.39952740000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.78158092989272,
+                  "lng" : 90.40091672989273
+               },
+               "southwest" : {
+                  "lat" : 23.77888127010728,
+                  "lng" : 90.39821707010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "EMMY BURGER",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102327545429194042383\"\u003eMahmud Hasan\u003c/a\u003e"
+               ],
+               "photo_reference" : "AcYSjRh2MgG3fEB0-vgHFwXQXByoQLHv9vRDq_Tvzq8qg6Lk99U7h7gDndKlFUKeO4w8Fg7Z5ZKuUh7Jg5C5I_nOoawWq1cpG5ZrQmkwpvZMlRYRHLJWPUgOXmjRkYAJAuqn4T9G44s_0R29KqTj0yryBNLFtUPjXfa1eskyiM-WmcwPtH6G",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJlSr1n_3HVTcR4cjl4jFMWtI",
+         "rating" : 4,
+         "reference" : "ChIJlSr1n_3HVTcR4cjl4jFMWtI",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Q9JX+3RR, Dhaka"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.7902559,
+               "lng" : 90.4096648
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.79155027989272,
+                  "lng" : 90.41100682989273
+               },
+               "southwest" : {
+                  "lat" : 23.78885062010728,
+                  "lng" : 90.40830717010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Burger 101 - Steak",
+         "place_id" : "ChIJM-B_arbHVTcRcF4ducvOnR4",
+         "plus_code" : {
+            "compound_code" : "QCR5+4V Dhaka",
+            "global_code" : "7MMGQCR5+4V"
+         },
+         "rating" : 0,
+         "reference" : "ChIJM-B_arbHVTcRcF4ducvOnR4",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "Block H, R 10, H 6, Dhaka"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.758474,
+               "lng" : 90.41795279999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.75986257989272,
+                  "lng" : 90.41928977989274
+               },
+               "southwest" : {
+                  "lat" : 23.75716292010728,
+                  "lng" : 90.41659012010729
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Burger Box",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2316,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110491364906469921658\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AcYSjRjPCt8IzRd-wNcY4YeixXsOGHDggviAtvJ679eI3881umY-Zpu2LM3tHpEnSYxJAZiMWWwvwoPlnCUBDsIcLKtruSnYiy5vjyjdOTFwTZ6XD6i77b0VFXggFneY-3PiDYHt3V_0MqkCexXY_o06cIIshqQNOQy-dvnURNikxQ9gqEgw",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJC1iHinS5VTcRt1DyrQadEqk",
+         "plus_code" : {
+            "compound_code" : "QC59+96 Dhaka",
+            "global_code" : "7MMGQC59+96"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJC1iHinS5VTcRt1DyrQadEqk",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 46,
+         "vicinity" : "No. 5, 30 DIT Rd, Dhaka"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.7916484,
+               "lng" : 90.4232435
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.79299367989272,
+                  "lng" : 90.42454782989272
+               },
+               "southwest" : {
+                  "lat" : 23.79029402010728,
+                  "lng" : 90.42184817010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Buns & Patty - Gourmet Burger Joint",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 606,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106885978412263124819\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AcYSjRhaUYWplJ5tpBEidhsz81kreC13DYOqJd9x9EZZtXIdT3M1cxcMVNos_TPbZYhz8arCG2UC1naLc5nWZOVyMurSPlhWS_bglCHtzY2Uqedt9q_L5JBwfEAtFDMn5NrRKC-TDHH-qFqgqRkO6s0R9hHo4RjIBvUCmSXq681Mcqzo1Fbn",
+               "width" : 1078
+            }
+         ],
+         "place_id" : "ChIJixBJlCLHVTcRtJanQlG_O3Y",
+         "plus_code" : {
+            "compound_code" : "QCRF+M7 Dhaka",
+            "global_code" : "7MMGQCRF+M7"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJixBJlCLHVTcRtJanQlG_O3Y",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 19,
+         "vicinity" : "KA-73/1, 106 Bayzid Rd, Dhaka"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.7899197,
+               "lng" : 90.42553169999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.79123277989272,
+                  "lng" : 90.42663727989272
+               },
+               "southwest" : {
+                  "lat" : 23.78853312010727,
+                  "lng" : 90.42393762010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Nadeem's Burgers",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJB7wWNrzHVTcRwK4zOA40I0s",
+         "rating" : 0,
+         "reference" : "ChIJB7wWNrzHVTcRwK4zOA40I0s",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "Shop No: 4/111, 4th Floor, Suvastu Nazar Valley Shopping Complex, Pragati Sarani, Shahjadpur, Gulshan, Dhaka"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.7549824,
+               "lng" : 90.3888905
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.75633122989272,
+                  "lng" : 90.39024272989271
+               },
+               "southwest" : {
+                  "lat" : 23.75363157010728,
+                  "lng" : 90.38754307010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Burger Clan",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 667,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115064920070365588852\"\u003eEmonn Emonn\u003c/a\u003e"
+               ],
+               "photo_reference" : "AcYSjRg1Qd21QFJJ5983tNQDML0Y6U4Stw1T5vO3u3ZgFlwL054xPctylwMAKvflfqa4obfXp-yNaEiSE5ZQdr6U683Iwu0iLgPFH62rBDRZkiwpunEgUJLTz_fAL6iOZJgacGCmhKplZ3V_TbGAawn7WxlaqfBQSoeDJY2_K_BcutVpLDXe",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJ83_cM9O5VTcRKZFfz73DnJE",
+         "plus_code" : {
+            "compound_code" : "Q93Q+XH Dhaka",
+            "global_code" : "7MMGQ93Q+XH"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ83_cM9O5VTcRKZFfz73DnJE",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 25,
+         "vicinity" : "Green Super Market, Dhaka"
+      }
+   ],
+   "status" : "OK"
+}
